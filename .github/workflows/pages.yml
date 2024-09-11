@@ -2,9 +2,7 @@ name: Publish Github Pages Sphinx
 
 on:
   push:
-    branches: [master]
-    paths-ignore:
-      - .github/workflows/gitee-pages.yml
+    branches: [main]
 
 # Cancel any in-progress job or run
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
