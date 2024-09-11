@@ -29,3 +29,5 @@ sphinxnotes-fasthtml
 pyyaml
 sphinx_rtd_theme
 sphinxcontrib-openapi
+apache-airflow-providers-ssh
+apache-airflow
