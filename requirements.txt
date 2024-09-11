@@ -27,3 +27,4 @@ sphinxcontrib-globalsubs @ git+https://github.com/SilverRainZ/sphinxcontrib-glob
 sphinx_simplepdf
 sphinxnotes-fasthtml
 pyyaml
+sphinx_rtd_theme
